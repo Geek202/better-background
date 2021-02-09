@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "me.geek.tom.betterbackground.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "MixinScreen",
+    "MixinEntryListWidget"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
